@@ -47,21 +47,29 @@ sections:
       title: Skills, Interest and Hobby
       items:
         - name: Team Building
-          description: Built my DS team from scratch
-          icon: person-digging
-          icon_pack: far
-        - name: Artificial Intelligence
-          description: Studied and working on
-          icon: microchip-ai
-          icon_pack: fas
+          description: built DS team from scratch
+          icon:
+          icon_pack: 
+        - name: ML/DL/DS
+          description: daily stuff
+          icon: 
+          icon_pack: 
+        - name: Mentoring/Coaching
+          description: many many hours
+          icon: 
+          icon_pack: 
+        - name: Reading
+          description:  history is my favourite
+          icon: 
+          icon_pack:
         - name: Soccer
-          description: Since childhood
-          icon: futbol
-          icon_pack: far
+          description: since childhood 
+          icon: 
+          icon_pack: 
         - name: Weightlifting
-          description: Start getting heavy 
-          icon: dumbbell
-          icon_pack: far
+          description: start getting heavy 
+          icon: 
+          icon_pack:
   - block: experience
     content:
       title: Work Experience
