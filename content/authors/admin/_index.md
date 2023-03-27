@@ -83,8 +83,8 @@ email: 'shi.zheng.tfls@gmail.com'
 highlight_name: true
 ---
 
-Zheng Shi is a Technical Leader in Data Science and AI at IBM. His area of interests include machine learning, deep learning, optimization, algorithm development, and data analytics. He is currently leading Machine Learning & Operations Research team at IBM. {style="text-align: justify;"}  
+Zheng Shi is a Technical Leader in Data Science and AI at IBM. His area of interests include machine learning, deep learning, optimization, algorithm development, and data analytics. He is currently leading Machine Learning & Operations Research team at IBM.
 
-While working at IBM, Zheng obtained Ph.D. in Machine Learning and Optimization (2022) and worked as part-time research assistant (2016-2022) at Lehigh University. Prior to joining IBM, he obtained M.S. in Operations Research at Lehigh University. {style="text-align: justify;"}
+While working at IBM, Zheng obtained Ph.D. in Machine Learning and Optimization (2022) and worked as part-time research assistant (2016-2022) at Lehigh University. Prior to joining IBM, he obtained M.S. in Operations Research at Lehigh University.
 
 Zheng grew up in <a href="https://www.google.com/maps/place/Qingxu+County,+Taiyuan,+Shanxi,+China/@37.6189398,112.39925,11z/data=!3m1!4b1!4m6!3m5!1s0x36755090600e589d:0x22b1263b5899c5bf!8m2!3d37.6085599!4d112.35925!16s%2Fm%2F08077ny">Qingxu (Est. 497 BC) of China</a> — and finished his pre-College education (1999-2005) at one of the national top-tier schools: Taiyuan Foreign Language School (TFLS). He attended the colleges (2005 – 2009) in the city of Tianjin where he earned two Bachelor degrees from two national top-tier Universities: B.A. in English Literature from Tianjin University & B.Econ in Finance from Nankai University. {style="text-align: justify;"}
