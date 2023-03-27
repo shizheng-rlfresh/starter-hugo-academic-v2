@@ -17,7 +17,7 @@ publishDate: "2022-05-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PhD Dissertation*, 2022"
+publication: "*PhD Dissertation*"
 publication_short: ""
 
 abstract: ""
