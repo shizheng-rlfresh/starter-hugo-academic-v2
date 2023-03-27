@@ -1,5 +1,5 @@
 ---
-title: "{AI}-{SARAH}: Adaptive and Implicit Stochastic Recursive Gradient Methods"
+title: "AI-SARAH: Adaptive and Implicit Stochastic Recursive Gradient Methods"
 authors:
 - admin
 - Abdurakhmon Sadiev
