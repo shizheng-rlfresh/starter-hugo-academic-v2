@@ -1,6 +1,6 @@
 ---
 title: Blog
-type: landing
+# type: landing
 summary: 
 
 reading_time: false  # Show estimated reading time?
