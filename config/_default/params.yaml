@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/shizheng-tlfresh/starter-hugo-academic-v2'
     content_dir: content
     branch: main
   avatar:
