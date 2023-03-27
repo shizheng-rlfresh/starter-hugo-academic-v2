@@ -41,7 +41,7 @@ education:
       year: 2013
     - course: B.Econ. in Finance
       institution: Nankai University
-      year: 2009
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
