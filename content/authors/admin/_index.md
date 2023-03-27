@@ -83,6 +83,7 @@ email: 'shi.zheng.tfls@gmail.com'
 highlight_name: true
 ---
 
-Zheng Shi is a Technical Leader in Data Science and AI at IBM. His area of interests machine learning, deep learning, optimization, algorithm development, and data analytics. He currently leads Machine Learning & Operations Research Data Science team at IBM.  
+<p align="justify">
+Zheng Shi is a Technical Leader in Data Science and AI at IBM. His area of interests include machine learning, deep learning, optimization, algorithm development, and data analytics. He is currently leading Machine Learning & Operations Research team at IBM.  
 
-Zheng Shi obtained Ph.D. in Machine Learning and Optimization (2022) and worked as part-time research assistance (2016-2022) at Lehigh University.  
+While working at IBM, Zheng Shi obtained Ph.D. in Machine Learning and Optimization (2022) and worked as part-time research assistant (2016-2022) at Lehigh University. Prior to joining IBM, he obtained M.S. in Operations Research at Lehigh University.</p> 
