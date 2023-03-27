@@ -83,8 +83,12 @@ email: 'shi.zheng.tfls@gmail.com'
 highlight_name: true
 ---
 
-I am currently working at IBM as a Team Lead in Data Science and AI. 
-During my tenure (2013 – present) at IBM, I served different organizations as Operations Research Scientist, Scientist Developer, Data Scientist, and Machine Learning & Operations Research Team Lead.
+div {
+  text-align: justify;
+}
+
+
+I am currently working at IBM as a Team Lead in Data Science and AI. During my tenure (2013 – present) at IBM, I served different organizations as Operations Research Scientist, Scientist Developer, Data Scientist, and Machine Learning & Operations Research Team Lead.
 
 While working at IBM, I obtained Ph.D. degree from Dept. Industrial & Systems Engineering (2022), Lehigh University in the United States. My research interests are Deep Learning and Optimization Algorithms for Machine Learning. 
 Prior to joining IBM, I earned Master’s Degree (M.S) in Industrial and Systems Engineering (2013) from Lehigh University in the United States.
