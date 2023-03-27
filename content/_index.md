@@ -53,7 +53,7 @@ sections:
         - name: Artificial Intelligence
           description: Studied and working on
           icon: microchip-ai
-          icon_pack: fab
+          icon_pack: fas
         - name: Soccer
           description: Since childhood
           icon: futbol
@@ -186,9 +186,9 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: posts
+    id: news
     content:
-      title: Recent Posts
+      title: Latest News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -196,7 +196,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - news
         author: ""
         category: ""
         tag: ""
