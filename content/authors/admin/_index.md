@@ -3,12 +3,12 @@
 title: Zheng Shi 史峥
 
 # Full name (for SEO)
-first_name: Zheng
-last_name: Shi
+first_name: 
+last_name: 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ️
 
 # Is this the primary user of the site?
 superuser: true
