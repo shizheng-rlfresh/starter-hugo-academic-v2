@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://openreview.net/pdf?id=WoXJFsJ6Zw
 url_code: 'https://github.com/shizheng-rlfresh/ai_sarah'
 url_dataset: ''
 url_poster: ''
