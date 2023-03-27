@@ -60,7 +60,7 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -86,21 +86,59 @@ sections:
           date_start: '2018-10-01'
           date_end: '2020-07-01'
           description:
-        - title: Advisory Data Scientist
-          company: IBM
-          company_url: ''
-          company_logo: rebus-light
-          location: 
-          date_start: '2016-09-01'
-          date_end: '2018-10-01'
-          description:
-        - title: Staff Data Scientist
+        - title: Staff/Advisory Data Scientist
           company: IBM
           company_url: ''
           company_logo: rebus-light
           location: 
           date_start: '2013-09-04'
-          date_end: '2016-09-01'
+          date_end: '2018-10-01'
+          description:
+    design:
+      columns: '2'
+  - block: experience
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Ph.D. Industrial Engineering
+          company: Lehigh University
+          company_url: ''
+          company_logo: rebus-light
+          location: 
+          date_start: ''
+          date_end: '2022-05-22'
+          description: Machine Learning and Optimization 
+        - title: M.S. Industrial Engineering
+          company: Lehigh University
+          company_url: ''
+          company_logo: lehigh-logo
+          location: 
+          date_start: ''
+          date_end: '2013-01-01'
+          description:
+        - title: B.Econ. Finance
+          company: Nankai University
+          company_url: ''
+          company_logo: rebus-light
+          location: 
+          date_start: ''
+          date_end: ''
+          description:
+        - title: B.A. English Literature
+          company: Tianjin University
+          company_url: ''
+          company_logo: rebus-light
+          location: 
+          date_start: ''
+          date_end: ''
           description:
     design:
       columns: '2'
