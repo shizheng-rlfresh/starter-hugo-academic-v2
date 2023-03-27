@@ -51,7 +51,7 @@ sections:
           icon: person-digging
           icon_pack: fab
         - name: Artificial Intelligence
-          description: Studied and learning
+          description: Studied and working with
           icon: microchip-ai
           icon_pack: fas
         - name: Soccer
