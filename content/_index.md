@@ -74,17 +74,33 @@ sections:
           company: IBM
           company_url: ''
           company_logo: rebus-light
-          location: WFH
-          date_start: '2020'
+          location: 
+          date_start: '2020-07-01'
           date_end: ''
           description: 
         - title: Senior Data Scientist
           company: IBM
           company_url: ''
           company_logo: rebus-light
-          location: WFH
-          date_start: '2018'
-          date_end: '2020'
+          location: 
+          date_start: '2018-10-01'
+          date_end: '2020-07-01'
+          description:
+        - title: Advisory Data Scientist
+          company: IBM
+          company_url: ''
+          company_logo: rebus-light
+          location: 
+          date_start: '2016-09-01'
+          date_end: '2018-10-01'
+          description:
+        - title: Staff Data Scientist
+          company: IBM
+          company_url: ''
+          company_logo: rebus-light
+          location: 
+          date_start: '2013-09-04'
+          date_end: '2016-09-01'
           description:
     design:
       columns: '2'
