@@ -49,19 +49,19 @@ sections:
         - name: Team Building
           description: Built my DS team from scratch
           icon: person-digging
-          icon_pack: fab
+          icon_pack: far
         - name: Artificial Intelligence
           description: Studied and working with
           icon: microchip-ai
-          icon_pack: fas
+          icon_pack: far
         - name: Soccer
           description: Since childhood
           icon: futbol
-          icon_pack: fab
+          icon_pack: far
         - name: Weightlifting
           description: About 1 year
           icon: dumbbell
-          icon_pack: fab
+          icon_pack: far
   - block: experience
     content:
       title: Work Experience
