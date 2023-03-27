@@ -113,7 +113,7 @@ sections:
           company_url: ''
           company_logo: rebus-light
           location: 
-          date_start: ''
+          date_start: '2016-09-01'
           date_end: '2022-05-22'
           description: Machine Learning and Optimization 
         - title: M.S. Industrial Engineering
