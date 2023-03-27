@@ -7,7 +7,7 @@ authors:
 - Peter Richtárik
 - Martin Takáč
 author_notes:
-- IBM & Lehigh University
+- 
 - KAUST
 - Johns Hopkins University
 - KAUST
