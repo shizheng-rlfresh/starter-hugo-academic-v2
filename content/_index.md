@@ -58,6 +58,18 @@ sections:
           description: many many hours
           icon: 
           icon_pack: 
+        - name: 
+          description: 
+          icon: 
+          icon_pack: 
+        - name: 
+          description: 
+          icon: 
+          icon_pack: 
+        - name: 
+          description: 
+          icon: 
+          icon_pack:   
         - name: Reading
           description:  history is my favourite
           icon: 
