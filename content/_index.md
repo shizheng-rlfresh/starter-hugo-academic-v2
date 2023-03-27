@@ -111,7 +111,7 @@ sections:
         - title: Ph.D. Industrial Engineering
           company: Lehigh University
           company_url: ''
-          company_logo: rebus-light
+          company_logo: lehigh-logo
           location: 
           date_start: '2016-09-01'
           date_end: '2022-05-22'
@@ -123,11 +123,11 @@ sections:
           location: 
           date_start: '2010-09-01'
           date_end: '2013-01-01'
-          description:
+          description: Operations Research
         - title: B.Econ. Finance
           company: Nankai University
           company_url: ''
-          company_logo: 
+          company_logo: nankai-logo
           location: 
           date_start: '2007-03-01'
           date_end: '2009-07-01'
@@ -135,7 +135,7 @@ sections:
         - title: B.A. English Literature
           company: Tianjin University
           company_url: ''
-          company_logo: 
+          company_logo: tju-logo
           location: 
           date_start: '2005-09-01'
           date_end: '2009-07-01'
