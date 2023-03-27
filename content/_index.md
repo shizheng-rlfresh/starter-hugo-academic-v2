@@ -75,7 +75,7 @@ sections:
           company_url: ''
           company_logo: rebus-light
           location: Lehigh Valley
-          date_start: '2020-07'
+          date_start: '2020-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
