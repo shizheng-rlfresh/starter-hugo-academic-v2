@@ -119,7 +119,7 @@ sections:
         - title: M.S. Industrial Engineering
           company: Lehigh University
           company_url: ''
-          company_logo: lehigh-logo
+          company_logo: 
           location: 
           date_start: ''
           date_end: '2013-01-01'
@@ -127,7 +127,7 @@ sections:
         - title: B.Econ. Finance
           company: Nankai University
           company_url: ''
-          company_logo: rebus-light
+          company_logo: 
           location: 
           date_start: ''
           date_end: ''
@@ -135,7 +135,7 @@ sections:
         - title: B.A. English Literature
           company: Tianjin University
           company_url: ''
-          company_logo: rebus-light
+          company_logo: 
           location: 
           date_start: ''
           date_end: ''
