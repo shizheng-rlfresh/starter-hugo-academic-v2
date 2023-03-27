@@ -213,12 +213,12 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: blog
     content:
-      title: Projects
+      title: Blog
       filters:
         folders:
-          - project
+          - blog
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -231,8 +231,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Data Science
+          tag: Data Science
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
