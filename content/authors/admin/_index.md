@@ -83,6 +83,10 @@ email: 'shi.zheng.tfls@gmail.com'
 highlight_name: true
 ---
 
-I obtained Ph.D. degree from Dept. Industrial & Systems Engineering (2022), Lehigh University in the United States. My research interests are Deep Learning and Optimization Algorithms for Machine Learning. I am currently working at IBM as a Team Lead in Data Science and AI. During my tenure (2013 – present) at IBM, I served different organizations as Operations Research Scientist, Scientist Developer, Data Scientist, and Machine Learning & Operations Research Team Lead. Prior to joining IBM, I earned Master’s Degree (M.S) in Industrial and Systems Engineering (2013) from Lehigh University in the United States.
+I am currently working at IBM as a Team Lead in Data Science and AI. 
+During my tenure (2013 – present) at IBM, I served different organizations as Operations Research Scientist, Scientist Developer, Data Scientist, and Machine Learning & Operations Research Team Lead.
+
+While working at IBM, I obtained Ph.D. degree from Dept. Industrial & Systems Engineering (2022), Lehigh University in the United States. My research interests are Deep Learning and Optimization Algorithms for Machine Learning. 
+Prior to joining IBM, I earned Master’s Degree (M.S) in Industrial and Systems Engineering (2013) from Lehigh University in the United States.
 
 I grew up in Qingxu (Est. 497 BC) of China — <a href="https://www.google.com/maps/place/Qingxu+County,+Taiyuan,+Shanxi,+China/@37.6189398,112.39925,11z/data=!3m1!4b1!4m6!3m5!1s0x36755090600e589d:0x22b1263b5899c5bf!8m2!3d37.6085599!4d112.35925!16s%2Fm%2F08077ny">visit my hometown on Google Map</a> — and finished my pre-College education (1999-2005) at one of the national top-tier schools: Taiyuan Foreign Language School (TFLS). I attended the colleges (2005 – 2009) in the city of Tianjin where I earned two Bachelor degrees from two national top-tier Universities: B.A. in English Literature from Tianjin University & B.Econ in Finance from Nankai University.
