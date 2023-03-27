@@ -1,5 +1,6 @@
 ---
 title: Blog
+type: landing
 summary: 
 
 reading_time: false  # Show estimated reading time?
@@ -19,12 +20,11 @@ header:
   caption: ''
   image: ''
 
-
 sections:
 - block: portfolio
     id: blog
     content:
-      title: Blog
+      title: 
       filters:
         folders:
           - blog
