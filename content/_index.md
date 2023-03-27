@@ -73,16 +73,16 @@ sections:
         - title: Team Lead, Data Science
           company: IBM
           company_url: ''
-          company_logo: rebus-light
+          company_logo: org-gc
           location: Lehigh Valley
           date_start: '2020-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * 
-              * 
-              * 
+              * adfa
+              * adf
+              * adf
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
