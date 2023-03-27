@@ -1,5 +1,5 @@
 ---
-title: "AI-SARAH: Adaptive and Implicit Stochastic Recursive Gradient Methods"
+title: "{AI}-{SARAH}: Adaptive and Implicit Stochastic Recursive Gradient Methods"
 authors:
 - admin
 - Abdurakhmon Sadiev
@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://openreview.net/pdf?id=WoXJFsJ6Zw
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/shizheng-rlfresh/ai_sarah'
 url_dataset: ''
 url_poster: ''
