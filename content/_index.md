@@ -121,7 +121,7 @@ sections:
           company_url: ''
           company_logo: 
           location: 
-          date_start: ''
+          date_start: '2010-09-01'
           date_end: '2013-01-01'
           description:
         - title: B.Econ. Finance
@@ -129,16 +129,16 @@ sections:
           company_url: ''
           company_logo: 
           location: 
-          date_start: ''
-          date_end: ''
+          date_start: '2007-03-01'
+          date_end: '2009-07-01'
           description:
         - title: B.A. English Literature
           company: Tianjin University
           company_url: ''
           company_logo: 
           location: 
-          date_start: ''
-          date_end: ''
+          date_start: '2005-09-01'
+          date_end: '2009-07-01'
           description:
     design:
       columns: '2'
