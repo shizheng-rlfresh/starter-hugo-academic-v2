@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Transactions of Machine Learning Research*, 2023"
-publication_short: "TMLR"
+publication_short: "TMLR, 2023"
 
 abstract:  We present AI-SARAH, a practical variant of SARAH. As a variant of SARAH, this algorithm employs the stochastic recursive gradient yet adjusts step-size based on local geometry. AI-SARAH implicitly computes step-size and efficiently estimates local Lipschitz smoothness of stochastic functions. It is fully adaptive, tune-free, straightforward to implement, and computationally efficient. We provide technical insight and intuitive illustrations on its design and convergence. We conduct extensive empirical analysis and demonstrate its strong performance compared with its classical counterparts and other state-of-the-art first-order methods in solving convex machine learning problems.
 
