@@ -51,15 +51,15 @@ sections:
           icon: person-digging
           icon_pack: far
         - name: Artificial Intelligence
-          description: Studied and working with
+          description: Studied and working on
           icon: microchip-ai
-          icon_pack: far
+          icon_pack: fas
         - name: Soccer
           description: Since childhood
           icon: futbol
           icon_pack: far
         - name: Weightlifting
-          description: About 1 year
+          description: Squat 1.5x bodyweight 
           icon: dumbbell
           icon_pack: far
   - block: experience
