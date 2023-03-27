@@ -48,19 +48,19 @@ sections:
       items:
         - name: Team Building
           description: Built my DS team from scratch
-          icon: fa-regular fa-person-digging
+          icon: fa-person-digging
           icon_pack: fab
         - name: Artificial Intelligence
           description: Studied and learning
-          icon: fa-duotone fa-microchip-ai fa-beat
+          icon: fa-microchip-ai fa-beat
           icon_pack: fas
         - name: Soccer
           description: Since childhood
-          icon: fa-light fa-futbol fa-spin
+          icon: fa-futbol fa-spin
           icon_pack: fab
         - name: Weightlifting
           description: About 1 year
-          icon: fa-thin fa-dumbbell fa-shake
+          icon: fa-dumbbell fa-shake
           icon_pack: fab
   - block: experience
     content:
