@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks
+summary: 
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
