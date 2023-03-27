@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Zheng Shi 史峥
+title: 
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Zheng
+last_name: Shi
 
 # Status emoji
-status:
-  icon: ️
+status: 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
