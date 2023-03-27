@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: http://dns2.asia.edu.tw/~ysho/YSHO-English/Publications/PDF/acknowledgement/Ene%20Eff6,%20177.pdf 
 url_code: ''
 url_dataset: ''
 url_poster: ''
