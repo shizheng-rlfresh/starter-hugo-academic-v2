@@ -53,13 +53,13 @@ sections:
         - name: Artificial Intelligence
           description: Studied and working on
           icon: microchip-ai
-          icon_pack: fas
+          icon_pack: fab
         - name: Soccer
           description: Since childhood
           icon: futbol
           icon_pack: far
         - name: Weightlifting
-          description: Squat 1.5x bodyweight 
+          description: Start getting heavy 
           icon: dumbbell
           icon_pack: far
   - block: experience
