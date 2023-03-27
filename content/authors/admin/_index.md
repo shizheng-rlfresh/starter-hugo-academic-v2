@@ -40,10 +40,7 @@ education:
       institution: Lehigh University
       year: 2013
     - course: B.Econ. in Finance
-      institution: Nankai University, China
-      year: 2009
-    - course: B.A. in English Literature
-      institution: Tianjin University, China
+      institution: Nankai University
       year: 2009
 
 # Social/Academic Networking
