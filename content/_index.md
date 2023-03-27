@@ -42,22 +42,26 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: R
-  #         description: 90%
-  #         icon: r-project
-  #         icon_pack: fab
-  #       - name: Statistics
-  #         description: 100%
-  #         icon: chart-line
-  #         icon_pack: fas
-  #       - name: Photography
-  #         description: 10%
-  #         icon: camera-retro
-  #         icon_pack: fas
+  - block: features
+    content:
+      title: Skills, Interest and Hobby
+      items:
+        - name: Team Building
+          description: Built my DS team from scratch
+          icon: fa-regular fa-person-digging
+          icon_pack: fab
+        - name: Artificial Intelligence
+          description: Studied and learning
+          icon: fa-duotone fa-microchip-ai fa-beat
+          icon_pack: fas
+        - name: Soccer
+          description: Since childhood
+          icon: fa-light fa-futbol fa-spin
+          icon_pack: fab
+        - name: Weightlifting
+          description: About 1 year
+          icon: fa-thin fa-dumbbell fa-shake
+          icon_pack: fab
   - block: experience
     content:
       title: Work Experience
