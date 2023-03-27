@@ -75,16 +75,16 @@ sections:
           company_url: ''
           company_logo: rebus-light
           location: WFH
-          date_start: '2020-07-01'
+          date_start: '2020'
           date_end: ''
           description: 
-        - title: Senior Data Scientist, Machine Learning
+        - title: Senior Data Scientist
           company: IBM
           company_url: ''
           company_logo: rebus-light
           location: WFH
-          date_start: '2018-10-01'
-          date_end: '2020-07-01'
+          date_start: '2018'
+          date_end: '2020'
           description:
     design:
       columns: '2'
