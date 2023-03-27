@@ -86,16 +86,8 @@ sections:
           date_start: '2018-10-01'
           date_end: '2020-07-01'
           description:
-         - title: Data Scientist, Operations Research
-          company: IBM
-          company_url: ''
-          company_logo: rebus-light
-          location: WFH
-          date_start: '2013-09-01'
-          date_end: '2018-10-01'
-          description:  
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
