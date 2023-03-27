@@ -1,9 +1,5 @@
 ---
 title: 'Doubly Adaptive Scaled Algorithm for Machine Learning Using Second-Order Information'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - Majid Jahani
   - Sergey Rusakov
@@ -11,7 +7,6 @@ authors:
   - Peter Richtárik
   - Michael W. Mahoney
   - Martin Takáč 
-# Author notes (optional)
 author_notes:
   - Target
   - Lehigh University
@@ -30,11 +25,11 @@ publishDate: '2022-02-28T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Conference on Learning Representations*, 2022"
-publication_short: ICLR
+publication_short: "ICLR"
 
 abstract: We present a novel adaptive optimization algorithm for large-scale machine learning
 problems. Equipped with a low-cost estimate of local curvature and Lipschitz
@@ -65,7 +60,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=HCelXXcSEuH'
+url_pdf: https://openreview.net/pdf?id=HCelXXcSEuH
 url_code: 'https://openreview.net/forum?id=HCelXXcSEuH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)'
 url_dataset: ''
 url_poster: ''
@@ -87,7 +82,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
