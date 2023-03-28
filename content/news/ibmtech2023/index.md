@@ -41,9 +41,6 @@ categories:
   - Industry
 ---
 
-```python
-print('hello IBM Tech 2023')
-```
 
 ## Overview
 
