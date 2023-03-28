@@ -46,6 +46,18 @@ sections:
     content:
       title: Skills, Interest and Hobby
       items:
+        - name: 
+          description: 
+          icon: brain-circuit
+          icon_pack: far 
+        - name: 
+          description: 
+          icon: brain-circuit
+          icon_pack: far 
+        - name: 
+          description: 
+          icon: brain-circuit
+          icon_pack: far 
         - name: Team Building
           description: built DS team from scratch
           icon:
@@ -55,7 +67,7 @@ sections:
           icon: 
           icon_pack: 
         - name: Mentoring/Coaching
-          description: many many hours
+          description: many
           icon: 
           icon_pack: 
         - name: 
@@ -79,7 +91,7 @@ sections:
           icon: 
           icon_pack: 
         - name: Weightlifting
-          description: start getting heavy 
+          description: pretty heavy 
           icon: 
           icon_pack:
   - block: experience
