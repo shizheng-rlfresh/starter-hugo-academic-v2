@@ -34,12 +34,13 @@ authors:
   - admin
 
 tags:
-  - Data Science
-  - Leadership
+  - Machine Learning
+  - Optimization Methods
+  - Adaptive Algorithms
 
 categories:
-  - Awards & Recognition
-  - Industrial Space
+  - Research
+  - Academic Space
 ---
 
 
