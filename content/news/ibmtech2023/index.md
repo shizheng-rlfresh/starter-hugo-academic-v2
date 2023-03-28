@@ -25,8 +25,8 @@ featured: true
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**LinkedIn**](https://www.linkedin.com/posts/zhengmartinshi_ibmtech2023-ai-tech-activity-7029826943617232896-rJnc?utm_source=share&utm_medium=member_desktop)'
-  focal_point: ''
-  placement: 2
+  focal_point: 'Center'
+  placement: 1
   preview_only: false
 
 authors:
