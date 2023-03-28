@@ -64,9 +64,9 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/shizheng-tlfresh/starter-hugo-academic-v2'
     content_dir: content
