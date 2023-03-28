@@ -46,4 +46,5 @@ categories:
 ## IBM Tech 2023
 
 Between Janurary 5th and 8th, I was invited to attend **IBM Tech 2023 at Dallas** to meet peer colleagues who were nominated as IBM premier technical leaders. As a data science leader, I was nominated by IBM senior executives based on the exceptional results in building the data science infrasturctue and cultivating data scientists. 
+{style="text-align: justify;"}
 
