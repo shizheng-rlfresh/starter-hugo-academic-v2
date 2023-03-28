@@ -26,7 +26,7 @@ featured: true
 image:
   caption: 'Welcome to the wild WEST!'
   focal_point: 'Bottom'
-  placement: 2
+  placement: 1
   preview_only: false
   filename: ibmtech2023.png
 
