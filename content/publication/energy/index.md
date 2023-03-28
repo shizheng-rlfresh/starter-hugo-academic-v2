@@ -34,7 +34,7 @@ abstract:  To meet the energy requirements of sustainable economic growth, polic
 summary: ""
 
 tags:
-- Industrial Engineering
+  - Industrial Engineering
 featured: false
 
 # links:

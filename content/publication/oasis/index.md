@@ -36,11 +36,13 @@ abstract:  We present a novel adaptive optimization algorithm for large-scale ma
 summary: ""
 
 tags:
-- Machine Learning
-- Deep Learning
-- Optimization Methods
-- Adaptive Algorithms
+  - Deep Learning
+  - Adaptive Algorithms
 featured: false
+
+categories:
+  - Research
+  - Academic Space
 
 # links:
 # - name: ""

@@ -30,8 +30,7 @@ abstract:  Complex reaction networks comprising of thousands of intermediates an
 summary: ""
 
 tags:
-- Machine Learning
-- Deep Learning
+  - Deep Learning
 featured: false
 
 # links:

@@ -34,10 +34,13 @@ abstract:  We present AI-SARAH, a practical variant of SARAH. As a variant of SA
 summary: ""
 
 tags:
-- Machine Learning
-- Optimization Methods
-- Adaptive Algorithms
+  - Machine Learning
+  - Adaptive Algorithms
 featured: false
+
+categories:
+  - Research
+  - Academic Space
 
 # links:
 # - name: ""

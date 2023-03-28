@@ -1,6 +1,6 @@
 ---
 title: Paper accepted by TMLR.
-subtitle: Adaptive algorithm is the future of the machine learning optimization.  
+subtitle: Adaptive algorithm is the future of the machine learning.  
 # subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -35,7 +35,6 @@ authors:
 
 tags:
   - Machine Learning
-  - Optimization Methods
   - Adaptive Algorithms
 
 categories:

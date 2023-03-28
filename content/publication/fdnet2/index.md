@@ -34,9 +34,12 @@ abstract:  Discovering the underlying physical behavior of complex systems is a 
 summary: ""
 
 tags:
-- Machine Learning
-- Deep Learning
-- Optimization Methods
+  - Deep Learning
+  - Adaptive Algorithms
+
+categories:
+  - Research
+  - Academic Space
 featured: false
 
 # links:

@@ -26,11 +26,14 @@ abstract: ""
 summary: ""
 
 tags:
-- Machine Learning
-- Deep Learning
-- Optimization Methods
-- Adaptive Algorithms
+  - Machine Learning
+  - Deep Learning
+  - Adaptive Algorithms
 featured: false
+
+categories:
+  - Research
+  - Academic Space
 
 # links:
 # - name: ""

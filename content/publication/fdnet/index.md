@@ -34,10 +34,13 @@ abstract:  Discovering the underlying behavior of complex systems is an importan
 summary: ""
 
 tags:
-- Machine Learning
-- Optimization Methods
-- Adaptive Algorithms
+  - Machine Learning
+  - Adaptive Algorithms
 featured: false
+
+categories:
+  - Research
+  - Academic Space
 
 # links:
 # - name: ""
