@@ -52,24 +52,24 @@ sections:
           icon_pack: 
         - name: ML/DL/DS
           description: daily stuff
-          icon: brain-circuit
-          icon_pack: far 
+          icon: 
+          icon_pack: 
         - name: Mentoring/Coaching
           description: many many hours
           icon: 
           icon_pack: 
         - name: 
           description: 
-          icon: 
-          icon_pack: 
+          icon: brain-circuit
+          icon_pack: far 
         - name: 
           description: 
-          icon: 
-          icon_pack: 
+          icon: brain-circuit
+          icon_pack: far 
         - name: 
           description: 
-          icon: 
-          icon_pack:   
+          icon: brain-circuit
+          icon_pack: far 
         - name: Reading
           description:  history is my favourite
           icon: 
