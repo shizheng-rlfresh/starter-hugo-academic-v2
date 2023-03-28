@@ -1,50 +1,48 @@
 ---
-title: Nominated as IBM Premier Tech leader
+title: Nominated as an IBM Premier Tech leader
 subtitle: I was recognized as as one of the top 1% tech leaders in IBM.  
 # subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: 👋 Zheng Shi was recognized as one of the top 1% technical leaders at IBM. 
+summary: 👋 Zheng Shi is recognized as one of the top 1% technical leaders at IBM. 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-01-03T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-01-03T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**LinkedIn**](https://www.linkedin.com/posts/zhengmartinshi_ibmtech2023-ai-tech-activity-7029826943617232896-rJnc?utm_source=share&utm_medium=member_desktop)'
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Data Science
+  - Leadership
 
 categories:
-  - Demo
-  - 教程
+  - Awards & Recognition
+  - Industry
 ---
 
 ```python
-import libr
-print('hello')
+print('hello IBM Tech 2023')
 ```
 
 ## Overview
