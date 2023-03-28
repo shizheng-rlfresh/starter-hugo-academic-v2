@@ -93,4 +93,4 @@ Zheng grew up in [Qingxu (Est. 497 BC) of China][def] — and finished his pre-C
 {style="text-align: justify;"}
 
 
-[def]: "https://www.google.com/maps/place/Qingxu+County,+Taiyuan,+Shanxi,+China/@37.6189398,112.39925,11z/data=!3m1!4b1!4m6!3m5!1s0x36755090600e589d:0x22b1263b5899c5bf!8m2!3d37.6085599!4d112.35925!16s%2Fm%2F08077ny"
+[def]: "https://www.google.com/maps/place/Qingxu+County,+Taiyuan,+Shanxi,+China/@37.6189398,112.39925,11z/data=!3m1!4b1!4m6!3m5!1s0x36755090600e589d:0x22b1263b5899c5bf!8m2!3d37.6085599!4d112.35925!16s%2Fm%2F08077ny%22"
