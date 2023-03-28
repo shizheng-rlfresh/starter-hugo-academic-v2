@@ -1,9 +1,10 @@
 ---
-title: Nomination by ***IBM Tech 2023*** as Top 1% Technical Contributors
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Nominated as IBM Premier Tech leader
+subtitle: I was recognized as as one of the top 1% tech leaders in IBM.  
+# subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 👋 Zheng Shi was recognized as one of the top 1% technical leaders at IBM. 
 
 # Link this post with a project
 projects: []
