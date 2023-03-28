@@ -52,8 +52,8 @@ sections:
           icon_pack: 
         - name: ML/DL/DS
           description: daily stuff
-          icon: 
-          icon_pack: 
+          icon: brain-circuit
+          icon_pack: fas 
         - name: Mentoring/Coaching
           description: many many hours
           icon: 
