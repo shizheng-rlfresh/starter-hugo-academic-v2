@@ -304,7 +304,7 @@ sections:
   #     view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Relevant Topics
     design:
       columns: '2'
   - block: contact

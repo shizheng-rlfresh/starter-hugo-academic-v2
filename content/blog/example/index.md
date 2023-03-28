@@ -1,5 +1,5 @@
 ---
-title: Blog is under way!!!
+title: Blog is underway!!!
 summary: 
 tags:
   - 
