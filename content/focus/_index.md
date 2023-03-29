@@ -1,7 +1,7 @@
 ---
 title:  
 math: true
-draft: true
+draft: false
 image:
   placement: 1
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
