@@ -2,6 +2,7 @@
 title: Blog
 date: 2021-03-28
 type: landing
+weight: 20
 # summary: 
 
 # reading_time: false  # Show estimated reading time?
