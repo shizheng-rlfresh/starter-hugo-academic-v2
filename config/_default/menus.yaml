@@ -10,11 +10,19 @@ main:
   - name: Work Experience
     parent: about
     url: '#work'
-    weight: 10
+    weight: 11
   - name: Education
     parent: about
     url: '#edu'
-    weight: 11
+    weight: 12
+  - name: Skill
+    parent: about
+    url: '#skill'
+    weight: 10
+  - name: Relevant Topics
+    parent: about
+    url: '#topic'
+    weight: 13
   - name: News
     identifier: all_news
     weight: 20
@@ -32,9 +40,17 @@ main:
   # - name: Talks
   #   url: 'event/'
   #   weight: 40
-  - name: Publications
-    url: 'publication/'
+  - name: Research
+    identifier: research
     weight: 50
+  - name: Focus
+    parent: research
+    url: 'focus/'
+    weight: 51
+  - name: Publications
+    parent: research
+    url: 'publication/'
+    weight: 52
   - name: Contact
     url: '#contact'
     weight: 60

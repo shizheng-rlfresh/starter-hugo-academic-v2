@@ -43,7 +43,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: features
-    id: 
+    id: skill 
     content:
       title: Skills, Interest and Hobby
       items:
@@ -318,6 +318,7 @@ sections:
   #     columns: '2'
   #     view: compact
   - block: tag_cloud
+    id: topic
     content:
       title: Relevant Topics
       taxonomy: tags
