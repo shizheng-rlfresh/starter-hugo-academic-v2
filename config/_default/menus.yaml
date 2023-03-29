@@ -7,16 +7,16 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: AllNews
+  - name: News
     identifier: all_news
     weight: 20
   - name: Latest News
     parent: all_news
-    url: all_news/#latest_news
+    url: '#latest_news'
     weight: 20
-  - name: News
+  - name: All News
     parent: all_news
-    url: all_news/News/
+    url: 'News/'
     weight: 20  
   - name: Blog
     url: 'blog/'
