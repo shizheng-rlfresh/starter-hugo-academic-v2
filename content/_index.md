@@ -101,6 +101,14 @@ sections:
           date_start: '2018-10-01'
           date_end: '2020-07-01'
           description:
+        - title: Research Assistant
+          company: Lehigh University
+          company_url: ''
+          company_logo: lehigh-logo
+          location: 
+          date_start: '2016-09-04'
+          date_end: '2020-05-23'
+          description: 
         - title: Staff/Advisory Data Scientist
           company: IBM
           company_url: ''
