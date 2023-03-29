@@ -60,16 +60,16 @@ sections:
           icon_pack: far 
         - name: Team Building
           description: built DS team from scratch
-          icon: :building_construction:
-          icon_pack: emoji
+          icon: 
+          icon_pack: 
         - name: ML/DL/DS
           description: daily stuff
-          icon: :brain:
-          icon_pack: emoji
+          icon: 
+          icon_pack: 
         - name: Mentoring/Coaching
           description: many
-          icon: :teacher:
-          icon_pack: emoji
+          icon: 
+          icon_pack: 
         - name: 
           description: 
           icon: brain-circuit
@@ -84,16 +84,16 @@ sections:
           icon_pack: far 
         - name: Reading
           description:  history is my favourite
-          icon: :books:
-          icon_pack: emoji
+          icon: 
+          icon_pack: 
         - name: Soccer
           description: since childhood 
-          icon: :soccer:
-          icon_pack: emoji
+          icon: 
+          icon_pack: 
         - name: Weightlifting
           description: pretty heavy 
-          icon: :weight_lifting: 
-          icon_pack: emoji
+          icon: 
+          icon_pack: 
   - block: experience
     content:
       title: Work Experience
