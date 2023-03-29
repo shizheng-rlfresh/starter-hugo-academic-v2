@@ -26,7 +26,7 @@ main:
   - name: News
     identifier: all_news
     weight: 20
-  - name: Latest
+  - name: Latest News
     parent: all_news
     url: '#Latest_news'
     weight: 20

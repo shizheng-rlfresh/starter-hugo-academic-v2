@@ -221,37 +221,37 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: collection
-    id: latest_news
+  # - block: collection
+  #   id: latest_news
+  #   content:
+  #     title: Latest News
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 2
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - news
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
+  - block: portfolio
+    id: Latest_news
     content:
       title: Latest News
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 2
-      # Filter on criteria
-      filters:
-        folders:
-          - news
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
-  - block: portfolio
-    id: 
-    content:
-      title: News by Category
       filters:
         folders:
           - news
@@ -264,15 +264,15 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: Industry
-          tag: Industrial
+          tag: Industrial_latest
         - name: Academic
-          tag: Academic
+          tag: Academic_latest
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: masonry
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
   # - block: markdown
   #   content:
   #     title: Gallery
