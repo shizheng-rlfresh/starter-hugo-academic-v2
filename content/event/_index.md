@@ -1,5 +1,6 @@
 ---
 title: Talks
+type: landing
 summary: 
 
 reading_time: false  # Show estimated reading time?
