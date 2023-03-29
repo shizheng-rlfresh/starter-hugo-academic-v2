@@ -14,7 +14,7 @@ main:
   - name: Education
     parent: about
     url: '#edu'
-    weight: 10
+    weight: 11
   - name: News
     identifier: all_news
     weight: 20
