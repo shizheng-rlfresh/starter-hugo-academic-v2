@@ -32,7 +32,7 @@ main:
     weight: 20
   - name: All
     parent: all_news
-    url: 'News/'
+    url: 'news/'
     weight: 20  
   - name: Blog
     url: 'landing/'
