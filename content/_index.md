@@ -45,7 +45,7 @@ sections:
       text: adfadfadfafadfa
   - block: features
     id: skill 
-    content: dasfdasfasdfasdfs
+    content: 
       title: Skills, Interest and Hobby
       items:
         - name: 
