@@ -21,11 +21,11 @@ main:
   - name: Latest
     parent: all_news
     url: '#Latest_news'
-    weight: 20
+    weight: 21
   - name: All
     parent: all_news
     url: 'news/'
-    weight: 20  
+    weight: 22  
   - name: Blog
     url: 'blog/'
     weight: 30
