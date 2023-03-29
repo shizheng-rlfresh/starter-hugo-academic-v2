@@ -35,7 +35,7 @@ authors:
 
 tags:
   - Education
-
+  - Academic
 categories:
   - Growth & Success
   - Academic Space

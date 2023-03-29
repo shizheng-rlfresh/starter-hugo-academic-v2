@@ -36,6 +36,7 @@ authors:
 tags:
   - Data Science
   - Leadership
+  - Industrial
 
 categories:
   - Awards & Recognition

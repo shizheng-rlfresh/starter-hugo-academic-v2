@@ -36,6 +36,7 @@ authors:
 tags:
   - Machine Learning
   - Adaptive Algorithms
+  - Academic
 
 categories:
   - Research
