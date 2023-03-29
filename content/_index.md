@@ -43,6 +43,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: features
+    id: 
     content:
       title: Skills, Interest and Hobby
       items:
@@ -95,6 +96,7 @@ sections:
           icon: 🏋️‍♂️
           icon_pack: emoji
   - block: experience
+    id: work
     content:
       title: Work Experience
       # Date format for experience
@@ -133,6 +135,7 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: edu
     content:
       title: Education
       # Date format for experience
@@ -218,7 +221,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: news
+    id: latest_news
     content:
       title: Latest News
       subtitle: ''

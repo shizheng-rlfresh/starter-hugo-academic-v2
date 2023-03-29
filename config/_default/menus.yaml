@@ -7,9 +7,17 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: News
-    url: 'news/'
+  - name: AllNews
+    identifier: all_news
     weight: 20
+  - name: Latest News
+    parent: all_news
+    url: all_news/#latest_news
+    weight: 20
+  - name: News
+    parent: all_news
+    url: all_news/News/
+    weight: 20  
   - name: Blog
     url: 'blog/'
     weight: 30
@@ -22,6 +30,24 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
+  # - name: About
+  #   url: '#about'
+  #   weight: 10
+  # - name: News
+  #   url: 'news/'
+  #   weight: 20
+  # - name: Blog
+  #   url: 'blog/'
+  #   weight: 30
+  # # - name: Talks
+  # #   url: 'event/'
+  # #   weight: 40
+  # - name: Publications
+  #   url: 'publication/'
+  #   weight: 50
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
