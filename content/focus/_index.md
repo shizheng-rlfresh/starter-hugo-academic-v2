@@ -1,6 +1,5 @@
 ---
 title:  
-type: landing
 math: true
 draft: false
 image:
