@@ -294,16 +294,16 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: tag_cloud
-    id: topic
-    content:
-      title: Relevant Topics
-      taxonomy: tags
-      count: 20
-    design:
-      columns: '2'
-      font_size_min: 1.0
-      font_size_max: 2.0
+  # - block: tag_cloud
+  #   id: topic
+  #   content:
+  #     title: Relevant Topics
+  #     taxonomy: tags
+  #     count: 20
+  #   design:
+  #     columns: '2'
+  #     font_size_min: 1.0
+  #     font_size_max: 2.0
   - block: contact
     id: contact
     content:
