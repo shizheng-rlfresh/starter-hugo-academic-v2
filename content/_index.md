@@ -60,16 +60,16 @@ sections:
           icon_pack: far 
         - name: Team Building
           description: built DS team from scratch
-          icon: 
-          icon_pack: 
-        - name: ML/DL/DS
+          icon: 🧱
+          icon_pack: emoji
+        - name: AI/DL/DS
           description: daily stuff
-          icon: 
-          icon_pack: 
+          icon: 🧠
+          icon_pack: emoji
         - name: Mentoring/Coaching
           description: many
-          icon: 
-          icon_pack: 
+          icon: 🧑‍🏫
+          icon_pack: emoji
         - name: 
           description: 
           icon: brain-circuit
@@ -84,12 +84,12 @@ sections:
           icon_pack: far 
         - name: Reading
           description:  history is my favourite
-          icon: 
-          icon_pack: 
+          icon: 📚
+          icon_pack: emoji
         - name: Soccer
           description: since childhood 
-          icon: 
-          icon_pack: 
+          icon: ⚽
+          icon_pack: emoji
         - name: Weightlifting
           description: pretty heavy 
           icon: 🏋️‍♂️
