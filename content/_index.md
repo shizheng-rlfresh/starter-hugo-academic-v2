@@ -92,8 +92,8 @@ sections:
           icon_pack: 
         - name: Weightlifting
           description: pretty heavy 
-          icon: 
-          icon_pack: 
+          icon: 🏋️‍♂️
+          icon_pack: emoji
   - block: experience
     content:
       title: Work Experience
