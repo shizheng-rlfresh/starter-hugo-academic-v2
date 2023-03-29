@@ -42,7 +42,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: adfadfadfafadfa
+      text: 
   - block: features
     id: skill 
     content: 
