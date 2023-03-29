@@ -23,8 +23,8 @@ type: landing
 
 sections:
   - block: portfolio
-    content:
-      title: 
+    content: content demo
+      title: title demo
       filters:
         folders:
           - blog
