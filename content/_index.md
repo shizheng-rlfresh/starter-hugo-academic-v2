@@ -83,7 +83,7 @@ sections:
           icon: brain-circuit
           icon_pack: far 
         - name: Reading
-          description:  history is my favourite
+          description:  history is my favorite
           icon: 📚
           icon_pack: emoji
         - name: Soccer
