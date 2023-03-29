@@ -5,16 +5,24 @@
 
 main:
   - name: About
-    url: '#about'
+    identifier: about
+    weight: 10
+  - name: Work Experience
+    parent: about
+    url: '#work'
+    weight: 10
+  - name: Education
+    parent: about
+    url: '#edu'
     weight: 10
   - name: News
     identifier: all_news
     weight: 20
   - name: Latest News
     parent: all_news
-    url: '#latest_news'
+    url: '#Latest_news'
     weight: 20
-  - name: All News
+  - name: All
     parent: all_news
     url: 'News/'
     weight: 20  
