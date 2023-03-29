@@ -37,6 +37,7 @@ tags:
   - Machine Learning
   - Adaptive Algorithms
   - Academic_Latest
+  - latest
 
 categories:
   - Research

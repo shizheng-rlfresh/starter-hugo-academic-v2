@@ -15,18 +15,10 @@ main:
     parent: about
     url: '#edu'
     weight: 12
-  - name: Skill
-    parent: about
-    url: '#skill'
-    weight: 10
-  - name: Relevant Topics
-    parent: about
-    url: '#topic'
-    weight: 13
   - name: News
     identifier: all_news
     weight: 20
-  - name: Latest News
+  - name: Latest
     parent: all_news
     url: '#Latest_news'
     weight: 20

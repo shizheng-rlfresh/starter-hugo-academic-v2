@@ -37,6 +37,7 @@ tags:
   - Data Science
   - Leadership
   - Industrial_Latest
+  - latest
 
 categories:
   - Awards & Recognition
