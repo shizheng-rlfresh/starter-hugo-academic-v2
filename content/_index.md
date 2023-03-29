@@ -48,18 +48,6 @@ sections:
     content: 
       title: Skills, Interest and Hobby
       items:
-        - name: 
-          description: 
-          icon: brain-circuit
-          icon_pack: far 
-        - name: 
-          description: 
-          icon: brain-circuit
-          icon_pack: far 
-        - name: 
-          description: 
-          icon: brain-circuit
-          icon_pack: far 
         - name: Team Building
           description: built DS team from scratch
           icon: 🧱
@@ -72,18 +60,6 @@ sections:
           description: many
           icon: 🧑‍🏫
           icon_pack: emoji
-        - name: 
-          description: 
-          icon: brain-circuit
-          icon_pack: far 
-        - name: 
-          description: 
-          icon: brain-circuit
-          icon_pack: far 
-        - name: 
-          description: 
-          icon: brain-circuit
-          icon_pack: far 
         - name: Reading
           description:  history is my favorite
           icon: 📚
