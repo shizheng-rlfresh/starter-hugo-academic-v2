@@ -25,7 +25,7 @@ main:
   - name: All
     parent: all_news
     url: 'news/'
-    weight: 22  
+    weight: 23  
   - name: Blog
     url: 'blog/'
     weight: 30
