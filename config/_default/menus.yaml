@@ -33,18 +33,22 @@ main:
 
 # sub-menu:
   
+  - name: Skills
+    parent: home_item
+    url: '#skill'
+    weight: 11
   - name: Work Experience
     parent: home_item
     url: '#work'
-    weight: 11
+    weight: 12
   - name: Education
     parent: home_item
     url: '#edu'
-    weight: 12
+    weight: 13
   - name: Recent News
     parent: home_item
     url: '#Latest_news'
-    weight: 13
+    weight: 14
 
   # - name: About
   #   url: '#about'

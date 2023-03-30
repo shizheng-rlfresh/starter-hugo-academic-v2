@@ -22,13 +22,13 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Deep Learning, Machine Learning, Adaptive Algorithms, Optimization Algorithms, and Data Science.
+bio: Deep Learning, Machine Learning, Optimization Algorithms, and Data Science.
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
-  - Optimization
-  - Data Science
+  - Reading
+  - Soccer
+  - Weightlifting
 
 # Education to show in About widget
 education:
