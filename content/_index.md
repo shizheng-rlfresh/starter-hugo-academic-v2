@@ -51,11 +51,11 @@ sections:
         - name: Team Building
           description: built DS team from scratch
           icon: 🧱
+          icon_pack: emoji
         - name: Team Building
           description:
           icon: person-digging
           icon_pack: fas
-          icon_pack: emoji
         - name: AI/DL/DS
           description: daily stuff
           icon: 🧠
