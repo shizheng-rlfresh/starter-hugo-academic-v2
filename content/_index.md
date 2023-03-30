@@ -48,43 +48,18 @@ sections:
     content: 
       title: Skills, Interest and Hobby
       items:
-        - name: Deep Learning
-          description: 
+        - name: Data Science
+          description: Machine Learning | Deep Learning | Optimization
           icon: microchip
           icon_pack: fas
-        - name: Optimization
-          description: mostly for machine learning
-          icon: wave-sine
-          icon_pack: fas
-        # - name: Team Building
-        #   description: built DS team from scratch
-        #   icon: 🧱
-        #   icon_pack: emoji
         - name: Team Building
-          description:
+          description: Built up a DS Team from Scratch
           icon: person-digging
           icon_pack: fas
-        # - name: AI/DL/DS
-        #   description: daily stuff
-        #   icon: 🧠
-        #   icon_pack: emoji
-        
-        - name: Mentoring/Coaching
+        - name: Mentoring & Coaching
           description: many
-          icon: 🧑‍🏫
-          icon_pack: emoji
-        - name: Reading
-          description:  history is my favorite
-          icon: 📚
-          icon_pack: emoji
-        - name: Soccer
-          description: since childhood 
-          icon: ⚽
-          icon_pack: emoji
-        - name: Weightlifting
-          description: pretty heavy 
-          icon: 🏋️‍♂️
-          icon_pack: emoji
+          icon: person-chalkboard
+          icon_pack: fas
   - block: experience
     id: work
     content:
