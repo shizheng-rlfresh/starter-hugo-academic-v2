@@ -45,6 +45,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: 
     design:
+      columns: 2
       spacing:
         padding: ["20px", "0", "20px", "0"]
   - block: features
