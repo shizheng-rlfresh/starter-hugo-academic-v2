@@ -33,7 +33,7 @@ main:
 
 # sub-menu:
   
-  - name: Skills
+  - name: Skills & Interests
     parent: home_item
     url: '#skill'
     weight: 11

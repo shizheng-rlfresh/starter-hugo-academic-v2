@@ -46,7 +46,7 @@ sections:
   - block: features
     id: skill 
     content: 
-      title: Skills & Interest
+      title: Skills & Interests
       items:
         - name: Data Science
           description: Machine Learning | Deep Learning | Optimization
