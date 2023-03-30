@@ -6,7 +6,7 @@
 main:
   - name: Home
     url: '#about'
-    weight: 5 
+    weight: 15 
   - name: " "
     identifier: home_item 
     weight: 10 
@@ -16,17 +16,12 @@ main:
   - name: Blog
     url: 'blog/'
     weight: 30
+  # - name: Project
+  #   indentifier: ds_project
+  #   weight: 40
   - name: Research
     identifier: research
     weight: 50
-  - name: Focus
-    parent: research
-    url: 'focus/'
-    weight: 51
-  - name: Publications
-    parent: research
-    url: 'publication/'
-    weight: 52
 
 # sub-menu:
   
@@ -50,6 +45,26 @@ main:
     parent: home_item
     url: '#contact'
     weight: 15
+
+  # - name: Team
+  #   parent: ds_project
+  #   url: 'ds/'
+  #   weight: 41
+  # - name: Personal
+  #   parent: ds_project
+  #   url: 'ds_team/'
+  #   weight: 42
+
+  - name: ML+OPT
+    parent: research
+    url: 'mlopt/'
+    weight: 51
+  - name: Publications
+    parent: research
+    url: 'publication/'
+    weight: 52
+
+  
 
   # - name: About
   #   url: '#about'
