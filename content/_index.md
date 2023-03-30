@@ -52,13 +52,13 @@ sections:
           description: Machine Learning | Deep Learning | Optimization
           icon: microchip
           icon_pack: fas
-        - name: Team Building
-          description: Built up a DS Team from Scratch
-          icon: person-digging
+        - name: Artificial Intelligence
+          description: Language/Graph/Multimodal | Automation
+          icon: robot
           icon_pack: fas
-        - name: Mentoring & Coaching
-          description: many
-          icon: person-chalkboard
+        - name: Team Bullding
+          description: Mentoring/Coaching | Team building from scratch 
+          icon: person-digging
           icon_pack: fas
   - block: experience
     id: work
