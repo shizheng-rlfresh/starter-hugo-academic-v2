@@ -5,6 +5,7 @@ tags:
   - Data Science 
   - Latest Blog
 date: '2023-03-26T00:00:00Z'
+reading_time: '1 minute'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

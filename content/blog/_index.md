@@ -3,7 +3,7 @@ title: Blog
 type: landing
 # summary: 
 
-reading_time: true  # Show estimated reading time?
+reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
