@@ -1,35 +1,22 @@
 ---
 title: Blog
 type: landing
+# summary: 
 
-sections:
-  - block: features
-    id: 
-    content: 
-      title: Skills, Interest and Hobby
-      items:
-        - name: Team Building
-          description: built DS team from scratch
-          icon: 🧱
-          icon_pack: emoji
-        - name: AI/DL/DS
-          description: daily stuff
-          icon: 🧠
-          icon_pack: emoji
-        - name: Mentoring/Coaching
-          description: many
-          icon: 🧑‍🏫
-          icon_pack: emoji
-        - name: Reading
-          description:  history is my favorite
-          icon: 📚
-          icon_pack: emoji
-        - name: Soccer
-          description: since childhood 
-          icon: ⚽
-          icon_pack: emoji
-        - name: Weightlifting
-          description: pretty heavy 
-          icon: 🏋️‍♂️
-          icon_pack: emoji
+reading_time: true  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
+# cms_exclude: true
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 3
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ''
+  image: ''
 ---
