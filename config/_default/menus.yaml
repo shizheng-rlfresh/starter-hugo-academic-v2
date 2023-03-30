@@ -45,7 +45,7 @@ main:
     parent: home_item
     url: '#edu'
     weight: 13
-  - name: Recent News
+  - name: Latest News
     parent: home_item
     url: '#Latest_news'
     weight: 14
