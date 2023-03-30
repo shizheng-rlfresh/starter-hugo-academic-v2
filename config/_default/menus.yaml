@@ -27,9 +27,6 @@ main:
     parent: research
     url: 'publication/'
     weight: 52
-  - name: Contact
-    url: '#contact'
-    weight: 60
 
 # sub-menu:
   
@@ -49,6 +46,10 @@ main:
     parent: home_item
     url: '#Latest_news'
     weight: 14
+  - name: Contact
+    parent: home_item
+    url: '#contact'
+    weight: 15
 
   # - name: About
   #   url: '#about'
