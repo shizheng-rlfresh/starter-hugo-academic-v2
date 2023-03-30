@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: 'About my research'
-  image: 'IBMTech2023.png'
+  caption: ''
+  image: ''
 ---
