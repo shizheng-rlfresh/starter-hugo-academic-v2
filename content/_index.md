@@ -46,7 +46,7 @@ sections:
   - block: features
     id: skill 
     content: 
-      title: Skills
+      title: Skills & Interest
       items:
         - name: Data Science
           description: Machine Learning | Deep Learning | Optimization
@@ -60,6 +60,18 @@ sections:
           description: Mentoring/Coaching | Team building from scratch 
           icon: person-digging
           icon_pack: fas
+        - name: Soccer
+          description: Since Childhood
+          icon: futbol
+          icon_pack: fas
+        - name: Weightlifting
+          description: Getting very heavy
+          icon: dumbbell
+          icon_pack: fas
+        - name: Reading
+          description: History is favorite  
+          icon: book-open
+          icon_pack: fas 
   - block: experience
     id: work
     content:
