@@ -39,6 +39,7 @@ sections:
   - block: about.avatar
     id: about
     content:
+      active: true
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
@@ -46,7 +47,6 @@ sections:
     design:
       spacing:
         padding: ["20px", "0", "20px", "0"]
-        active: true
   - block: features
     id: skill 
     content: 
