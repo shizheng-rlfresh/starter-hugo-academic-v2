@@ -16,8 +16,8 @@ main:
   - name: Blog
     url: 'blog/'
     weight: 30
-  # - name: Project
-  #   indentifier: ds_project
+  # - name: ML+OPT
+  #   indentifier: mlor
   #   weight: 40
   - name: Research
     identifier: research
@@ -48,11 +48,11 @@ main:
 
   # - name: Team
   #   parent: ds_project
-  #   url: 'ds/'
-  #   weight: 41
-  # - name: Personal
-  #   parent: ds_project
   #   url: 'ds_team/'
+  #   weight: 41
+  # - name: Project
+  #   parent: mlor
+  #   url: 'ds_project/'
   #   weight: 42
 
   - name: ML+OPT
