@@ -21,20 +21,12 @@ weight: 50
 #   caption: ''
 #   image: ''
 sections:
-  - block: portfolio
-      content:
-        title: Latest Blog
-        # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-        default_button_index: 0
-        # Filter toolbar (optional).
-        # Add or remove as many filters (`filter_button` instances) as you like.
-        # To show all items, set `tag` to "*".
-        # To filter by a specific tag, set `tag` to an existing tag name.
-        # To remove the toolbar, delete the entire `filter_button` block.
-        buttons:
-          - name: All
-            tag: *
-          - name: Latest
-            tag: Latest Blog
+  - block: about.avatar
+    id: about
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text: 
 
 ---
