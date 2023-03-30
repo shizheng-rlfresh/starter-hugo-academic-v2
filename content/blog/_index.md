@@ -1,6 +1,7 @@
 ---
 title: Blog
 type: landing
+weight: 50
 # summary: 
 
 # reading_time: false  # Show estimated reading time?
