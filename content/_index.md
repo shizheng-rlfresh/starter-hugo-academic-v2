@@ -48,18 +48,27 @@ sections:
     content: 
       title: Skills, Interest and Hobby
       items:
-        - name: Team Building
-          description: built DS team from scratch
-          icon: 🧱
-          icon_pack: emoji
+        - name: Deep Learning
+          description: 
+          icon: microchip
+          icon_pack: fas
+        - name: Optimization
+          description: mostly for machine learning
+          icon: wave-sine
+          icon_pack: fas
+        # - name: Team Building
+        #   description: built DS team from scratch
+        #   icon: 🧱
+        #   icon_pack: emoji
         - name: Team Building
           description:
           icon: person-digging
           icon_pack: fas
-        - name: AI/DL/DS
-          description: daily stuff
-          icon: 🧠
-          icon_pack: emoji
+        # - name: AI/DL/DS
+        #   description: daily stuff
+        #   icon: 🧠
+        #   icon_pack: emoji
+        
         - name: Mentoring/Coaching
           description: many
           icon: 🧑‍🏫
