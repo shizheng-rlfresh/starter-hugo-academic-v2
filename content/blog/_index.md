@@ -19,5 +19,3 @@ header:
   caption: ''
   image: ''
 ---
-
-adfadsf

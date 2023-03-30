@@ -1,6 +1,6 @@
 ---
 title: Publications
-cms_exclude: true
+# cms_exclude: true
 
 # View.
 #   1 = List
@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: 'About my research'
+  image: 'IBMTech2023.png'
 ---
