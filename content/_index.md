@@ -112,7 +112,7 @@ sections:
           company_logo: lehigh-logo
           location: 
           date_start: '2016-09-04'
-          date_end: '2020-05-23'
+          date_end: '2022-05-23'
           description: 
         - title: Staff/Advisory Data Scientist
           company: IBM
@@ -123,7 +123,7 @@ sections:
           date_end: '2018-10-01'
           description:
     design:
-      columns: '2'
+      columns: '1'
   - block: experience
     id: edu
     content:
