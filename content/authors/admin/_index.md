@@ -84,7 +84,7 @@ highlight_name: true
 
 ---
 
-Zheng Shi is a technical lead and team lead in data science and artificial intelligence at IBM. His areas of interests include machine learning, deep learning, optimization, algorithm development, and data analytics.
+Zheng Shi is a team lead and technical leader in data science and artificial intelligence at IBM. His areas of interests include machine learning, deep learning, optimization, algorithm development, and data analytics.
 {style="text-align: justify;"} 
 
 Zheng received his Ph.D. degree in 2022 and worked as a part-time research assistant (2016-2022) on designing and analyzing machine learning algorithms at Lehigh University. Zheng joined IBM as a data scientist in 2013. Prior to joining IBM, he received his M.S. in operations research from Lehigh University. 
