@@ -329,15 +329,12 @@ sections:
       phone: 
       appointment_url: ''
       address: 
-        street: 9762 Sleepy hollow Ln 
+        street: 
         city: Breinigsville
-        region: PA
-        postcode: 18031
+        region: Lehigh Valley, Pennsylvania
+        postcode:
         country: USA
         country_code: 
-      coordinates:
-        latitude: 40.53136
-        logitude: -75.64253
       directions: 
       office_hours:
         # - 'Monday 10:00 to 13:00'
