@@ -91,34 +91,34 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Team Lead, Data Science
-          company: MLOR Data Science](https://mlordatascience.com/)<br>IBM
+          company: AI, Machine Learning, Analytics, and Automation<br>[MLOR Data Science Team](https://mlordatascience.com/), IBM
           company_url: ''
           company_logo: rebus-light
-          location: AI, Machine Learning, Analytics, and Automation  
+          location:   
           date_start: '2020-07-01'
           date_end: ''
           description:
         - title: Senior Data Scientist
-          company: IBM
+          company: Machine Learning<br>IBM
           company_url: ''
           company_logo: rebus-light
-          location: Machine Learning Algorithm and Application
+          location: 
           date_start: '2018-10-01'
           date_end: '2020-07-01'
           description: 
         - title: Research Assistant
-          company: Lehigh University
+          company: Algorithm Design and Analysis for Machine Learning<br>Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: Part-Time Doctoral Study
+          location: 
           date_start: '2016-09-04'
           date_end: '2022-05-23'
           description: 
         - title: Staff/Advisory Data Scientist
-          company: IBM
+          company: Data Analytics, Optimization, and Application Development<br>IBM
           company_url: ''
           company_logo: rebus-light
-          location: Optimization Algorithm and Application
+          location: 
           date_start: '2013-09-04'
           date_end: '2018-10-01'
           description: 
