@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: forest
+  theme_night: rose
   font: minimal
   font_size: m
 
@@ -62,7 +62,6 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    # theme_dark: github-dark
     theme_dark: dracula
   math:
     enable: true
