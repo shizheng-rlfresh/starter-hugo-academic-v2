@@ -7,7 +7,7 @@
 
 appearance:
   # theme_day: minimal
-  theme_night: coffee
+  theme_night: earth
   font: Native
   font_size: m
 
