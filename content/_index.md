@@ -138,13 +138,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Ph.D. Industrial Engineering
-          company: Field<span>&#58;</span> <strong>Machine Learning</strong><br>Lehigh University
+          company: Field<span>&#58;</span> <strong>Machine Learning and Optimization</strong><br>Lehigh University
           company_url: ''
           company_logo: lehigh-logo
           location: 
           date_start: '2016-09-01'
           date_end: '2022-05-22'
-          description: Advisor<span>&#58;</span> Martin Takac<br>Dissertation<span>&#58;</span> [Advanced Algorithms and Applications in Machine Learning](https://www.zhengqxhs.com/publication/thesis/)
+          description: 
         - title: M.S. Industrial Engineering
           company: Field<span>&#58;</span> <strong>Operations Research</strong><br>Lehigh University
           company_url: ''
