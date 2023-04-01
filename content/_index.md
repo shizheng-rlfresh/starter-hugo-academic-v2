@@ -137,19 +137,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Industrial Engineering
+        - title: Ph.D. Industrial Engineering, Machine Learning & Optimization Algorithm
           company: Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: 'Machine Learning & Optimization Algorithm'
+          location: 
           date_start: '2016-09-01'
           date_end: '2022-05-22'
           description: 
-        - title: M.S. Industrial Engineering
+        - title: M.S. Industrial Engineering, Mathematical Modeling & Operations Research
           company: Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: 'Mathematical Modeling & Operations Research'
+          location: 
           date_start: '2010-09-01'
           date_end: '2013-01-01'
           description: 
@@ -157,15 +157,15 @@ sections:
           company: Nankai University
           company_url: ''
           company_logo: nankai-logo
-          location: 'Financial Engineering & Economics' 
+          location:  
           date_start: '2007-03-01'
           date_end: '2009-07-01'
           description:
-        - title: B.A. English
+        - title: B.A. English Literature
           company: Tianjin University
           company_url: ''
           company_logo: tju-logo
-          location: 'Ligustics & literature'
+          location:
           date_start: '2005-09-01'
           date_end: '2009-07-01'
           description:
