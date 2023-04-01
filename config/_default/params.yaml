@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Zheng Shi | Team Lead, Data Science & AI | Ph.D. Machine Learning'
+    twitter: 'zs_qxhs'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -62,8 +62,8 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: github-dark
-    # theme_dark: dracula
+    # theme_dark: github-dark
+    theme_dark: dracula
   math:
     enable: true
   privacy_pack:
