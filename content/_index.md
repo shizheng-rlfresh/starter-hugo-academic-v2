@@ -335,6 +335,9 @@ sections:
         postcode: 18031
         country: USA
         country_code: 
+      coordinates:
+        latitude: "40.52994592778529"
+        logitude: "-75.64385565767083"
       directions: 
       office_hours:
         # - 'Monday 10:00 to 13:00'
