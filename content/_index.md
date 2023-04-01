@@ -336,8 +336,8 @@ sections:
         country: USA
         country_code: 
       coordinates:
-        latitude: "40.529860"
-        logitude: "-75.643690"
+        latitude: 40.53136
+        logitude: -75.64253
       directions: 
       office_hours:
         # - 'Monday 10:00 to 13:00'
