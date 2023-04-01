@@ -94,10 +94,10 @@ sections:
           company: IBM
           company_url: ''
           company_logo: rebus-light
-          location: 
+          location: Leading Machine Learning & Operations Research Team at IBM 
           date_start: '2020-07-01'
           date_end: ''
-          description: 
+          description: Leading Machine Learning & Operations Research Team at IBM
         - title: Senior Data Scientist
           company: IBM
           company_url: ''
@@ -105,7 +105,7 @@ sections:
           location: 
           date_start: '2018-10-01'
           date_end: '2020-07-01'
-          description:
+          description: Machine Learning 
         - title: Research Assistant
           company: Lehigh University
           company_url: ''
@@ -121,9 +121,9 @@ sections:
           location: 
           date_start: '2013-09-04'
           date_end: '2018-10-01'
-          description:
+          description: Optimization and Operations Research
     design:
-      columns: '1'
+      columns: '2'
   - block: experience
     id: edu
     content:
