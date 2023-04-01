@@ -144,7 +144,7 @@ sections:
           location: 
           date_start: '2016-09-01'
           date_end: '2022-05-22'
-          description: 
+          description: Thesis - [Advanced Algorithms and Applications in Machine Learning](https://www.zhengqxhs.com/publication/thesis/)
         - title: M.S. Industrial Engineering, Lehigh University
           company: Mathematical Modeling & Operations Research
           company_url: ''
