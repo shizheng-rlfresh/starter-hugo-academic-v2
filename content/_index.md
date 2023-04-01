@@ -91,7 +91,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Team Lead, Data Science
-          company: AI, Machine Learning, Analytics, and Automation<br>MLOR Data Science Team, IBM
+          company: AI, Machine Learning, Analytics, and Automation<br>MLOR Team, IBM
           company_url: ''
           company_logo: rebus-light
           location:   
