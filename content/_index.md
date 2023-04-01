@@ -94,18 +94,18 @@ sections:
           company: IBM
           company_url: ''
           company_logo: rebus-light
-          location: Leading Machine Learning & Operations Research Team at IBM 
+          location: AI | Machine Learning | Analytics | Automation  
           date_start: '2020-07-01'
           date_end: ''
-          description: Leading Machine Learning & Operations Research Team at IBM
+          description:
         - title: Senior Data Scientist
           company: IBM
           company_url: ''
           company_logo: rebus-light
-          location: 
+          location: Machine Learning Algorithm and Application
           date_start: '2018-10-01'
           date_end: '2020-07-01'
-          description: Machine Learning 
+          description: 
         - title: Research Assistant
           company: Lehigh University
           company_url: ''
@@ -113,15 +113,15 @@ sections:
           location: 
           date_start: '2016-09-04'
           date_end: '2022-05-23'
-          description: 
+          description: Ph.D. Study on Part-Time Basis
         - title: Staff/Advisory Data Scientist
           company: IBM
           company_url: ''
           company_logo: rebus-light
-          location: 
+          location: Optimization Algorithm and Application
           date_start: '2013-09-04'
           date_end: '2018-10-01'
-          description: Optimization and Operations Research
+          description: 
     design:
       columns: '2'
   - block: experience
@@ -141,31 +141,31 @@ sections:
           company: Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: 
+          location: 'Field: Optimization Algorithm for ML | Deep Learning'
           date_start: '2016-09-01'
           date_end: '2022-05-22'
-          description: Machine Learning and Optimization 
+          description: 
         - title: M.S. Industrial Engineering
           company: Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: 
+          location: 'Field: Mathematical Modeling | Operations Research'
           date_start: '2010-09-01'
           date_end: '2013-01-01'
-          description: Operations Research
+          description: 
         - title: B.Econ. Finance
           company: Nankai University
           company_url: ''
           company_logo: nankai-logo
-          location: 
+          location: 'Field: Financial Engineering | Economics' 
           date_start: '2007-03-01'
           date_end: '2009-07-01'
           description:
-        - title: B.A. English Literature
+        - title: B.A. English
           company: Tianjin University
           company_url: ''
           company_logo: tju-logo
-          location: 
+          location: 'Field: Ligustics | Translation | Literature'
           date_start: '2005-09-01'
           date_end: '2009-07-01'
           description:
