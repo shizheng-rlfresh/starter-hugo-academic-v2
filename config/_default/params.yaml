@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night: earth
-  font: Native
+  theme_night: forest
+  font: minimal
   font_size: m
 
 # SEO
