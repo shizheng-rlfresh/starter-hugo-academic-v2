@@ -92,9 +92,9 @@ sections:
       items:
         - title: Team Lead, Data Science
           company: IBM
-          company_url: ''
+          company_url: 'https://mlordatascience.com/'
           company_logo: rebus-light
-          location: AI | Machine Learning | Analytics | Automation  
+          location: AI, Machine Learning, Analytics, and Automation  
           date_start: '2020-07-01'
           date_end: ''
           description:
@@ -110,10 +110,10 @@ sections:
           company: Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: 
+          location: Part-Time Doctoral Study
           date_start: '2016-09-04'
           date_end: '2022-05-23'
-          description: Ph.D. Study on Part-Time Basis
+          description: 
         - title: Staff/Advisory Data Scientist
           company: IBM
           company_url: ''
@@ -141,7 +141,7 @@ sections:
           company: Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: 'Field: Optimization Algorithm for ML | Deep Learning'
+          location: 'Machine Learning & Optimization Algorithm'
           date_start: '2016-09-01'
           date_end: '2022-05-22'
           description: 
@@ -149,7 +149,7 @@ sections:
           company: Lehigh University
           company_url: ''
           company_logo: lehigh-logo
-          location: 'Field: Mathematical Modeling | Operations Research'
+          location: 'Mathematical Modeling & Operations Research'
           date_start: '2010-09-01'
           date_end: '2013-01-01'
           description: 
@@ -157,7 +157,7 @@ sections:
           company: Nankai University
           company_url: ''
           company_logo: nankai-logo
-          location: 'Field: Financial Engineering | Economics' 
+          location: 'Financial Engineering & Economics' 
           date_start: '2007-03-01'
           date_end: '2009-07-01'
           description:
@@ -165,7 +165,7 @@ sections:
           company: Tianjin University
           company_url: ''
           company_logo: tju-logo
-          location: 'Field: Ligustics | Translation | Literature'
+          location: 'Ligustics & literature'
           date_start: '2005-09-01'
           date_end: '2009-07-01'
           description:
