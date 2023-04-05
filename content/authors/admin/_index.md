@@ -4,7 +4,7 @@ title: Zheng Shi
 
 # Full name (for SEO)
 first_name: Zheng
-last_name: Shi
+last_name: Shi (史峥)
 
 # Status emoji
 # status: 
