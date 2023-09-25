@@ -29,6 +29,7 @@ tags:
   - Machine Learning
   - Deep Learning
   - Adaptive Algorithms
+  - PhD Thesis
 featured: false
 
 categories:
